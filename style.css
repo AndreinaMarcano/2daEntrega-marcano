@@ -1,0 +1,21 @@
+body{
+    background-image: url(../multimedia/imagen/imagen.png);
+   background-repeat: no-repeat;
+   background-color: #cccccc;
+   background-position: center;
+
+}
+
+header {
+   text-align: center;
+
+}
+
+section{  
+    text-align: center;
+    
+}
+
+main{
+    text-align: center;
+}
